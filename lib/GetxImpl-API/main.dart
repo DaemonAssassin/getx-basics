@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+/// ! src
+/// https://github.com/themaaz32/getx_news_app_impl
+
 void main(List<String> args) {
   runApp(const MyApp());
 }
